@@ -8,7 +8,7 @@
 import Foundation
 
 struct DivideOperation {
-	func compute(left: Double, right: Double) -> Double {
-		return left / right
-	}
+    func compute(left: Double, right: Double) -> Double {
+        return left / right
+    }
 }
